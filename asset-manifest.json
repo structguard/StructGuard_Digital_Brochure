@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/StructGuard_Digital_Brochure/static/css/main.e6c13ad2.css",
-    "main.js": "/StructGuard_Digital_Brochure/static/js/main.e07e7bf9.js",
+    "main.js": "/StructGuard_Digital_Brochure/static/js/main.177bf171.js",
     "static/js/453.261d6c4f.chunk.js": "/StructGuard_Digital_Brochure/static/js/453.261d6c4f.chunk.js",
     "static/media/round25mm.png": "/StructGuard_Digital_Brochure/static/media/round25mm.236a7703d81c0b5c0bd4.png",
     "static/media/maharajadoorframe.png": "/StructGuard_Digital_Brochure/static/media/maharajadoorframe.35684f670144b76cf87b.png",
@@ -15,11 +15,11 @@
     "static/media/factoryimg.webp": "/StructGuard_Digital_Brochure/static/media/factoryimg.f297cac76d9a2b7d559f.webp",
     "index.html": "/StructGuard_Digital_Brochure/index.html",
     "main.e6c13ad2.css.map": "/StructGuard_Digital_Brochure/static/css/main.e6c13ad2.css.map",
-    "main.e07e7bf9.js.map": "/StructGuard_Digital_Brochure/static/js/main.e07e7bf9.js.map",
+    "main.177bf171.js.map": "/StructGuard_Digital_Brochure/static/js/main.177bf171.js.map",
     "453.261d6c4f.chunk.js.map": "/StructGuard_Digital_Brochure/static/js/453.261d6c4f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.e07e7bf9.js"
+    "static/js/main.177bf171.js"
   ]
 }
