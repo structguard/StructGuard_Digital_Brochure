@@ -1108,7 +1108,7 @@ function Book({ mobile, stage, children }) {
 
 
                 <a
-                    href="/StructGuard_Brochure.pdf"
+                    href={`${process.env.PUBLIC_URL}/StructGuard_Brochure.pdf`}
                     download="StructGuard_Brochure.pdf"
                     style={{
                         background: C.orange,
